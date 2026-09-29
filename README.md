@@ -52,11 +52,12 @@ Application web de gestion des employés (tâches, projets, congés) : conceptio
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/fatimazahraazzaoui)
+[Portfolio](https://fatiya2004.github.io/my-portfolio/) | [LinkedIn](https://www.linkedin.com/in/fatimazahraazzaoui)
 
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A9FD4,100:0B5FA5&height=100&section=footer)
 
 </div>
+
 
