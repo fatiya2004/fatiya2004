@@ -1,4 +1,10 @@
-﻿# Bonjour, je suis Fatima Zahra AZZAOUI
+﻿<div align="center">
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B5FA5,100:4A9FD4&height=200&section=header&text=Fatima%20Zahra%20AZZAOUI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Ing%C3%A9nieure%20en%20g%C3%A9nie%20informatique&descAlignY=58&descSize=18)
+
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0B5FA5&center=true&vCenter=true&width=600&lines=Backend+%26+Microservices;DevOps+%26+Docker;Machine+Learning+(notions);A+la+recherche+d'un+stage+de+fin+d'etudes)
+
+</div>
 
 Élève ingénieure en 4e année de génie informatique à l'EHEI (Oujda), spécialisée en développement web, architectures microservices et DevOps.
 **À la recherche d'un stage de fin d'études en développement logiciel.**
@@ -25,6 +31,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+## Machine Learning (notions)
+
+Python · Perceptron multicouche (MLP) · Random Forest · Gradient Boosting · AdaBoost · KNN · SVM · K-Means (clustering)
+
 ## Projets
 
 **[SmartMeeting CHU](https://github.com/fatiya2004/SmartMeeting)** - Gestion intelligente des réunions et des salles pour un établissement hospitalier : détection des conflits, assistant IA en langage naturel, notifications par email.
@@ -44,3 +54,9 @@ Application web de gestion des employés (tâches, projets, congés) : conceptio
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/fatimazahraazzaoui)
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A9FD4,100:0B5FA5&height=100&section=footer)
+
+</div>
