@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B5FA5,100:4A9FD4&height=200&section=header&text=Fatima%20Zahra%20AZZAOUI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Ing%C3%A9nieure%20en%20g%C3%A9nie%20informatique&descAlignY=58&descSize=18)
 
@@ -45,7 +45,7 @@ Python · Perceptron multicouche (MLP) · Random Forest · Gradient Boosting · 
 
 ## Expérience
 
-**[SmartMeeting CHU](https://github.com/fatiya2004/SmartMeeting)** - Plateforme de gestion intelligente des réunions et des salles du CHU Mohammed VI d'Oujda : détection des conflits, assistant IA en langage naturel, notifications par email, validation par le secrétariat.
+**[SmartMeeting CHU](https://github.com/fatiya2004/SmartMeeting)** - Projet réalisé pour le Centre Hospitalier Universitaire d'Oujda. Plateforme de gestion intelligente des réunions et des salles : détection des conflits, assistant IA en langage naturel, notifications par email, validation par le secrétariat.
 `.NET 9` `PostgreSQL` `JWT` `Docker` `GitHub Actions` `TypeScript`
 **Stagiaire en développement web** - 2TServices Maroc, Oujda (08/2025 - 09/2025)
 Application web de gestion des employés (tâches, projets, congés) : conception UML, modélisation MySQL, interfaces et logique métier.
